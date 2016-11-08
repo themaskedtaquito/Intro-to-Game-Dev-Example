@@ -14,7 +14,7 @@ Platform assembly: C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\T
 Loading C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\Text Adventure\GalleryTheft_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\Text Adventure\GalleryTheft_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\Text Adventure\GalleryTheft_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.162 seconds
+- Completed reload, in  0.155 seconds
 Platform assembly: C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\Text Adventure\GalleryTheft_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\minja\OneDrive\Documents\Intro-to-Game-Dev-Example\Text Adventure\GalleryTheft_Data\Managed\System.dll (this message is harmless)
 desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
