@@ -1,4 +1,2 @@
-# Intro-to-Game-Dev-Example
-Example Unity project and introduction to version control
-
-This edit was created on my personal computer
+# Intro-to-Game-Dev
+Various simple assignments from Intro to Game Development at NYU's Tandon School of Engineering
